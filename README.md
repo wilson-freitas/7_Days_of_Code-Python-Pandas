@@ -6,8 +6,6 @@ O desafio foi uma ótima oportunidade para aprender os principais conceitos da b
 
 Os dados utilizados são do sistema de acervo de bibliotecas da UFRN.
 
-Neste repositório, você encontrará os notebooks que criei para cada dia do desafio, em conjunto com o professor Francisco.
-
 [Veja o notebook com todo o código](Day_1.ipynb)
 
 ## Day 1
