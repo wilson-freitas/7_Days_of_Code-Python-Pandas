@@ -15,4 +15,10 @@ Utilizei a biblioteca Pandas para:
 - Verificar e remover duplicatas para limpar os dados.
 - Unir diferentes tabelas de dados usando colunas em comum.
 
-Estas funcionalidades do Pandas foram essenciais para preparar os dados para as próximas etapas.
+## Day 2
+
+Utilizei a biblioteca Pandas para:
+- Criar uma nova coluna com classificação condicional de outra coluna existente.
+- Excluir coluna desnecessária ao projeto.
+- Modificar o tipo de dados de uma coluna.
+
