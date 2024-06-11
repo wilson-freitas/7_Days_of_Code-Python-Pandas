@@ -6,7 +6,7 @@ O desafio foi uma ótima oportunidade para aprender os principais conceitos da b
 
 Os dados utilizados são do sistema de acervo de bibliotecas da UFRN.
 
-[Veja o notebook com todo o código](Day_1.ipynb)
+[Veja o notebook com todo o código](7_Days_of_Code_Notebook.ipynb)
 
 ## Day 1
 
