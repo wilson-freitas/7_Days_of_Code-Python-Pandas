@@ -8,9 +8,9 @@ Os dados utilizados são do sistema de acervo de bibliotecas da UFRN.
 
 Neste repositório, você encontrará os notebooks que criei para cada dia do desafio, em conjunto com o professor Francisco.
 
+[Veja o notebook com todo o código](Day_1.ipynb)
 
 ## Day 1
-[Veja o notebook do Dia 1](Day_1.ipynb)
 
 Utilizei a biblioteca Pandas para:
 - Importar arquivos .CSV e .parquet.
