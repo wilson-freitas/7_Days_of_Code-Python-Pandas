@@ -10,14 +10,12 @@ Os dados utilizados são do sistema de acervo de bibliotecas da UFRN.
 
 ## Day 1
 
-Utilizei a biblioteca Pandas para:
 - Importar arquivos .CSV e .parquet.
 - Verificar e remover duplicatas para limpar os dados.
 - Unir diferentes tabelas de dados usando colunas em comum.
 
 ## Day 2
 
-Utilizei a biblioteca Pandas para:
 - Criar uma nova coluna com classificação condicional de outra coluna existente.
 - Excluir coluna desnecessária ao projeto.
 - Modificar o tipo de dados de uma coluna.
